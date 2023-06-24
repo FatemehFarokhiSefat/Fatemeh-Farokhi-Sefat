@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FatemehFarokhiSefat
+- 👋 Hi, I’m @FatemehFarrokhiSefat
 - 👀 I’m interested in Programmer.
 - 🌱 I’m currently learning Web Design.
 - 💞️ I’m looking to collaborate on ...
